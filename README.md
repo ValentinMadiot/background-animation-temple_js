@@ -22,9 +22,9 @@ Temple est une page d’accueil immersive avec animations GSAP et effets visuels
 - HTML5 sémantique
 - CSS3 avancé (media queries, animations)
 - JavaScript ES6
-- GSAP
-- Sakura.js
-- Remix Icons
+- [GSAP](https://gsap.com/)
+- [Sakura.js](https://github.com/jhammann/sakura)
+- [Remix Icons](https://remixicon.com/)
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
@@ -38,15 +38,17 @@ Temple est une page d’accueil immersive avec animations GSAP et effets visuels
 
 ### ✅ Prérequis
 
-- Navigateur moderne (Chrome recommandé)
-- Éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) — Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) — Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) — Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/background-animation-temple_js.git
+git clone https://github.com/ValentinMadiot/background-animation-temple_js
+cd background-animation-temple_js
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Il suffit d’ouvrir le fichier index.html dans un navigateur, ou d’utiliser l’extension Live Server sur VS Code.
+Il suffit d’ouvrir le fichier `index.html` dans un navigateur, ou d’utiliser l’extension **Live Server** pour un rendu dynamique.

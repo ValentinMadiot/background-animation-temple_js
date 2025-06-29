@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du projet Temple" /> 
   </a> 
   </br></br> 
-  <h3 align="center">🏯 Background Animation - Temple</h3> 
+  <h3 align="center">🏯 Animation de Fond &nbsp;–&nbsp; Temple</h3> 
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,21 +15,23 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Temple est une page d’accueil immersive avec animations GSAP et effets visuels inspirés des pétales de sakura. Parfait pour des projets artistiques, spirituels ou culturels au style raffiné.
+Page d’accueil immersive sur le thème spirituel, animée avec **GSAP**, et **Sakura.js**. Elle mêle douceur visuelle et animations de pétales flottants pour une atmosphère paisible et contemplative.
+
+Parfaite pour des projets culturels, artistiques ou méditatifs, cette landing page responsive allie esthétisme raffiné, design épuré et interactivité subtile.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 avancé (media queries, animations)
-- JavaScript ES6
-- [GSAP](https://gsap.com/)
-- [Sakura.js](https://github.com/jhammann/sakura)
-- [Remix Icons](https://remixicon.com/)
+- HTML5 sémantique et accessible
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [GSAP](https://greensock.com/gsap/) pour les animations fluides
+- [Sakura.js](https://github.com/jhammann/sakura) pour une pluie de pétales
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Animation d’arrière-plan avec effets de pétales tombants
-- Animation séquentielle des éléments (GSAP)
+- Animation séquentielle des éléments via GSAP
 - Menu responsive avec effet mobile toggle
 - Scroll avec effet flou sur le header
 - Design poétique, calme et contemplatif
